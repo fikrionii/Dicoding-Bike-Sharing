@@ -159,7 +159,7 @@ fig = px.line(monthly_users_df,
               y=['casual_rides', 'registered_rides', 'total_rides'],
               color_discrete_sequence=["skyblue", "orange", "red"],
               markers=True,
-              title="Monthly Count of Bikeshare Rides").update_layout(xaxis_title='', yaxis_title='Total Rides', title_font_size=26)
+              title="Monthly Count of Bikeshare Rides").update_layout(xaxis_title='', yaxis_title='Total Rides')
 
 st.plotly_chart(fig, use_container_width=True)
 
@@ -168,7 +168,7 @@ fig1 = px.bar(seasonly_users_df,
               y=['count_rides'],
               color='type_of_rides',
               color_discrete_sequence=["skyblue", "orange", "red"],
-              title='Count of bikeshare rides by season').update_layout(xaxis_title='', yaxis_title='Total Rides', title_font_size=26)
+              title='Count of bikeshare rides by season').update_layout(xaxis_title='', yaxis_title='Total Rides')
 
 #st.plotly_chart(fig, use_container_width=True)
 
@@ -178,7 +178,7 @@ fig2 = px.bar(weekday_users_df,
               color='type_of_rides',
               barmode='group',
               color_discrete_sequence=["skyblue", "orange", "red"],
-              title='Count of bikeshare rides by weekday').update_layout(xaxis_title='', yaxis_title='Total Rides', title_font_size=26)
+              title='Count of bikeshare rides by weekday').update_layout(xaxis_title='', yaxis_title='Total Rides')
 
 #st.plotly_chart(fig, use_container_width=True)
 
