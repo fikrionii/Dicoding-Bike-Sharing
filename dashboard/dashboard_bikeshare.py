@@ -191,7 +191,7 @@ fig = px.line(hourly_users_df,
               y=['casual_rides', 'registered_rides'],
               color_discrete_sequence=["skyblue", "orange"],
               markers=True,
-              title='Count of bikeshare rides by hour of day').update_layout(xaxis_title='', yaxis_title='Total Rides', title_font_size=26)
+              title='Count of bikeshare rides by hour of day').update_layout(xaxis_title='', yaxis_title='Total Rides')
 
 st.plotly_chart(fig, use_container_width=True)
 
