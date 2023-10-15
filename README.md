@@ -2,7 +2,7 @@
 
 ## 📝 Analysis with Jupyter Notebook
 
-🚧 See the detail of this analysis on the [notebook](https://github.com/fikrionii/Dicoding-Bike-Sharing/blob/main/notebook-bikeshare-analysis.ipynb) 🚧
+🚧 See the detail of this analysis and visualization on the [notebook](https://github.com/fikrionii/Dicoding-Bike-Sharing/blob/main/notebook-bikeshare-analysis.ipynb) 🚧
 
 ### Defining Question
 1. How is the trend in the number of bike-sharing rides in recent years?
