@@ -196,3 +196,13 @@ fig = px.line(hourly_users_df,
 st.plotly_chart(fig, use_container_width=True)
 
 st.caption('Copyright (c), created by Alfikri Ramadhan')
+
+# ----- HIDE STREAMLIT STYLE -----
+hide_st_style = """
+                <style>
+                #MainMenu {visibility: hidden;}
+                footer {visibility: hidden;}
+                header {visibility: hidden;}
+                </style>
+                """
+st.markdown(hide_st_style, unsafe_allow_html=True)
