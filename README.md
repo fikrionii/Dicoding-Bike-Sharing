@@ -33,3 +33,19 @@
 The dashboard shows the count of total rides across the year and season. It also shows the difference casual riders and registered rides use of the bikesharing service, based on hour and day of the week.
 
 ### Run Streamlit on Local
+
+#### Install Dependencies
+
+To install all the required libraries, open your terminal/command prompt/conda prompt, navigate to this project folder, and run the following command:
+
+```bash
+pip install -r requirements.txt
+```
+
+#### Run Dashboard
+```bash
+cd dashboard
+streamlit run dashboard.py
+```
+
+Thanks for visiting my project! 🔥
