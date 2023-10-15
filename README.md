@@ -30,7 +30,7 @@
 
 🚧 View the dashboard on streamlit could directly on this link: https://capital-bikeshare-alfikri.streamlit.app/ 🚧
 
-The dashboard shows the count of total rides across the year and season. It also shows the difference casual riders and registered rides use of the bikesharing service, based on hour and day of the week.
+The dashboard shows the count of total rides across the year and season. It also shows the difference casual riders and registered riders use of the bikesharing service, based on hour and day of the week.
 
 <p align="center">
   <img src="/image/streamlit_dashboard.png" />
