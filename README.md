@@ -1,6 +1,6 @@
-# Capital Bikeshare: Bikesharing Analysis and Dashboard
+# 🚲 Capital Bikeshare: Bikesharing Analysis and Dashboard
 
-## Analysis with Jupyter Notebook
+## 📝 Analysis with Jupyter Notebook
 ### Defining Question
 1. How is the trend in the number of bike-sharing rides in recent years?
 2. What is the usage pattern of bike-sharing rides based on time of day?
@@ -22,7 +22,7 @@
 
 6. Yes, the number of rides is significantly higher during clear weather than during more extreme weather conditions.
 
-## Dashboard with Streamlit
+## 📊 Dashboard with Streamlit
 ### Streamlit Cloud
 
 View the dashboard on streamlit could directly on this link: https://capital-bikeshare-alfikri.streamlit.app/
