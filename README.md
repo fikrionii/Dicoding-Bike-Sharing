@@ -1,6 +1,9 @@
 # 🚲 Capital Bikeshare: Bikesharing Analysis and Dashboard
 
 ## 📝 Analysis with Jupyter Notebook
+
+🚧 See the detail of this analysis on the [notebook](https://github.com/fikrionii/Dicoding-Bike-Sharing/blob/main/notebook-bikeshare-analysis.ipynb) 🚧
+
 ### Defining Question
 1. How is the trend in the number of bike-sharing rides in recent years?
 2. What is the usage pattern of bike-sharing rides based on time of day?
@@ -25,7 +28,7 @@
 ## 📊 Dashboard with Streamlit
 ### Streamlit Cloud
 
-View the dashboard on streamlit could directly on this link: https://capital-bikeshare-alfikri.streamlit.app/
+🚧 View the dashboard on streamlit could directly on this link: https://capital-bikeshare-alfikri.streamlit.app/ 🚧
 
 The dashboard shows the count of total rides across the year and season. It also shows the difference casual riders and registered rides use of the bikesharing service, based on hour and day of the week.
 
